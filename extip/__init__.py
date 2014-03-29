@@ -15,4 +15,4 @@ def main():
             f.close()
         except:
             html = 'Could not resolve external IP\nCheck network connection'
-    print(html)
+    return(html)

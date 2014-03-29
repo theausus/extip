@@ -6,7 +6,7 @@ setup(
         url = 'https://github.com/theausus/extip',
         download_url = 'https://github.com/theausus/extip/archive/master.zip',
         author_email = 'theausus@gmail.com',
-        version = '0.8',
+        version = '0.9',
         packages = ['extip'],
         scripts = ['scripts/extip'],
         name = 'extip',
